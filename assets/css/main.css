@@ -5,7 +5,7 @@
 	This is HTML5 template
 	Template Name : Roton Personal Portfolio Template
 	Version: 1.0
-
+	
 ****************************************
 =======================================/
 
@@ -19,13 +19,13 @@
 	03. Banner
 	04. About
 	05. Service
-	06. Portfolio
+	06. Portfolio 
 	07. Resume
 	08. Testimonial
 	09. Blog
 	10. Contact
 	11. Footer
-
+ 
 
 ---------------------------------------------------------------- */
 /* ==========================================================================
@@ -421,7 +421,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 	background-color: transparent;
 	transition: all 0.3s ease 0s;
 }
-@media only screen and (max-width:768px){
+@media only screen and (max-width:768px){ 
 	.bg-faded {
 		background: #fff;
 		animation: fadeInDown 1s both 0.2s;
@@ -437,10 +437,10 @@ a.back-to-top:hover, a.back-to-top:focus{
 .dark_bg_menu .navbar-nav .nav-link{
 	color: #fff;
 }
-@media only screen and (max-width:768px){
+@media only screen and (max-width:768px){ 
 .navbar-light .navbar-nav .nav-link {color: #333;}
 }
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:480px) { 
 .navbar-light .navbar-nav .nav-link {padding: 8px 0px;}
 }
 .navbar-light .navbar-nav .nav-link:focus,
@@ -474,7 +474,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 .site-navigation{
     border-radius: 0px;
 }
-@media only screen and (max-width:480px){
+@media only screen and (max-width:480px){ 
 	.collapse.show{
 		display: block;
 		padding: 0!important;
@@ -506,13 +506,13 @@ a.back-to-top:hover, a.back-to-top:focus{
     background-color: #000;
 	box-shadow:0 10px 40px rgba(0, 0, 0, 0.05);
 }
-@media only screen and (max-width:768px){
+@media only screen and (max-width:768px){ 
 	.navbar-fixed {background:#fff;}
 	.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333;}
 }
 .navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333333;}
 .navbar-fixed.dark_bg_menu .navbar-nav .nav-link{color:#fff;}
-@media only screen and (max-width:768px){
+@media only screen and (max-width:768px){ 
 .navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333;}
 }
 /* ==========================================================================
@@ -875,7 +875,7 @@ Start FunFacts CSS
 /* ==========================================================================
 09. Start Blog Area
 ========================================================================== */
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:480px) { 
 .single_blog {margin-bottom:30px;}
 }
 .single_blog{
